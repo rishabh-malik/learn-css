@@ -8,7 +8,7 @@ Here you will find all the useful resources for css learning. hope this will hel
 
 >[By EJ Media](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
 
->[Tutorial in Hindi](https://www.youtube.com/playlist?list=PLHpTOkCsd2tMdHSUqV2CPpf73K7z_AIq_)
+>[Tutorial in Hindi By VishAcademy](https://www.youtube.com/playlist?list=PLHpTOkCsd2tMdHSUqV2CPpf73K7z_AIq_)
 ----
 ##Rules of Css
 ----
