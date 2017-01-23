@@ -4,7 +4,7 @@ Here you will find all the useful resources for css learning. hope this will hel
 ----
 ##VIDEO TUTORIALS
 ----
-#For beginners
+##For beginners
 
 >[By EJ Media](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
 
@@ -12,15 +12,15 @@ Here you will find all the useful resources for css learning. hope this will hel
 ----
 ##Rules of Css
 ----
-[Syntax](http://www.w3schools.com/css/)
+>[Syntax](http://www.w3schools.com/css/)
 ----
-###Books And Resources
+##Books And Resources
 ----
-[Free Computer Books](http://freecomputerbooks.com/webCssBooks.html)
-[Online Programming Books](http://www.onlineprogrammingbooks.com/css/)
+>[Free Computer Books](http://freecomputerbooks.com/webCssBooks.html)
+>[Online Programming Books](http://www.onlineprogrammingbooks.com/css/)
 ----
 ##Apps to help you learn CSS
 ----
-1.[Learn CSS](https://play.google.com/store/apps/details?id=com.sololearn.csstrial)
+>1.[Learn CSS](https://play.google.com/store/apps/details?id=com.sololearn.csstrial)
            
-2.[W3schools offline](https://play.google.com/store/apps/details?id=w3schools.offline)
+>2.[W3schools offline](https://play.google.com/store/apps/details?id=w3schools.offline)
